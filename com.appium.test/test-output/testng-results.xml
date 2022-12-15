@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="114902" started-at="2021-08-15T20:31:07 IST" finished-at="2021-08-15T20:33:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="114902" started-at="2021-08-15T20:31:07 IST" finished-at="2021-08-15T20:33:02 IST">
+      <class name="AppiumTest.com.appium.Dictionary.dictionaryAuto">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:AppiumTest.com.appium.Dictionary.dictionaryAuto@2781e022]" name="initialize" is-config="true" duration-ms="41751" started-at="2021-08-15T20:31:07 IST" finished-at="2021-08-15T20:31:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AppiumTest.com.appium.Dictionary.dictionaryAuto@2781e022]" name="setUp" duration-ms="12421" started-at="2021-08-15T20:31:48 IST" finished-at="2021-08-15T20:32:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="appInteractions()[pri:1, instance:AppiumTest.com.appium.Dictionary.dictionaryAuto@2781e022]" name="appInteractions" duration-ms="3753" started-at="2021-08-15T20:32:01 IST" finished-at="2021-08-15T20:32:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appInteractions -->
+        <test-method status="PASS" signature="scrollPage()[pri:2, instance:AppiumTest.com.appium.Dictionary.dictionaryAuto@2781e022]" name="scrollPage" duration-ms="44427" started-at="2021-08-15T20:32:05 IST" finished-at="2021-08-15T20:32:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollPage -->
+        <test-method status="PASS" signature="runningInBackground()[pri:3, instance:AppiumTest.com.appium.Dictionary.dictionaryAuto@2781e022]" name="runningInBackground" duration-ms="6085" started-at="2021-08-15T20:32:49 IST" finished-at="2021-08-15T20:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runningInBackground -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:AppiumTest.com.appium.Dictionary.dictionaryAuto@2781e022]" name="closeApp" is-config="true" duration-ms="6356" started-at="2021-08-15T20:32:55 IST" finished-at="2021-08-15T20:33:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- AppiumTest.com.appium.Dictionary.dictionaryAuto -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
